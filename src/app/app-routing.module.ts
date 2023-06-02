@@ -13,7 +13,7 @@ const routes: Routes = [
   {path: 'samples', component: SamplesComponent},
   {path: 'presets', component: PresetsComponent},
   {path: 'skins', component: SkinsComponent},
-  {path: 'acerca de', component: AcercaDeComponent},
+  {path: 'acerca-de', component: AcercaDeComponent},
   {path: '**', component: ErrorComponent}
 
 ];

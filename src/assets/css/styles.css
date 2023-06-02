@@ -1,0 +1,28 @@
+/*Importacion de fuentes externas*/
+@font-face {
+    font-family: "yanone";
+    src: url("../css/fonts/yanone.ttf");
+}
+
+@font-face {
+    font-family: "titilium";
+    src: url("../css/fonts/titilium.ttf");
+}
+
+@font-face {
+    font-family: "finger";
+    src: url("../css/fonts/finger.ttf");
+}
+
+/*Generales*/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: finger;
+    font-size: 20px;
+    background: url("../img/geo.png");
+    position: fixed;
+}
